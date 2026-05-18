@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi There, I'm Kaopratya 👋
+Backend Developer focused on building RESTful APIs 
+and scalable server-side systems
 
-<!--
-**JKNINEs/JKNINEs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+**Languages:** JavaScript, Python, TypeScript  
+**Frameworks:** Node.js, Express.js, Nest.js , FastAPI  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Tools:** Git, Docker, Prisma, Swagger
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Inventory Management API](https://github.com/JKNINEs/Inventory_Management)
+- [Government Document API](https://github.com/JKNINEs/government-document-api)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact
+kaopratya.khamkhong@gmail.com
