@@ -12,6 +12,7 @@ and scalable server-side systems
 - [Inventory Management API](https://github.com/JKNINEs/Inventory_Management)
 - [Government Document API](https://github.com/JKNINEs/-Backend-generate-document-for-Government)
 - [Government Document Frontend](https://github.com/JKNINEs/government-document-frontend)
+- [scanning-hydroponic-vegetables](https://github.com/JKNINEs/system-for-scanning-hydroponic-vegetables)
 
 
 ## 📫 Contact
