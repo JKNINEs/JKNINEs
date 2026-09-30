@@ -4,8 +4,8 @@ and scalable server-side systems
 
 ## 🛠️ Tech Stack
 **Languages:** JavaScript, Python, TypeScript  
-**Frameworks:** Node.js, Express.js, Nest.js , FastAPI  
-**Databases:** PostgreSQL, MySQL, MongoDB  
+**Frameworks:** Node.js, Express.js, Next.js , FastAPI  
+**Databases:** PostgreSQL, MySQL, MongoDB, Supabase  
 **Tools:** Git, Docker, Prisma, Swagger
 
 ## 🚀 Projects
